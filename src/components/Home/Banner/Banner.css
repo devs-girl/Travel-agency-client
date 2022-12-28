@@ -1,0 +1,25 @@
+.slider{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.slider::before{
+position:absolute;
+top: 0;
+left: 0;
+content: "";
+background-color: black;
+height: 100vh;
+width: 100%;
+opacity: 0.6;
+
+}
+.carousel-caption {
+    padding-bottom: 15.00rem;
+}
+.carousel-indicators {
+    bottom: 100px;
+ 
+}

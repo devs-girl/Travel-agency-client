@@ -1,0 +1,74 @@
+.gallery-title{
+     text-align: center;
+     color: #C3272E;;
+     margin-bottom: 30px;
+}
+.img img{
+    width: 100%;
+}
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 0;
+}
+.img{
+    position: relative;
+    overflow: hidden;
+
+}
+.img:hover img{
+    transform: scale(1.5) ;
+    transition: transform 2s ease-in-out;
+}
+
+.Photo-detail h2{
+    background: #222;
+    color: #fff;
+
+}
+.Photo-detail p{
+  font-size: 17px;
+}
+
+.Photo-detail{
+    display: none;
+    position: absolute;
+    width: 300px;
+    top: 0;
+}
+
+.img:hover .Photo-detail{
+    display: block;
+    background-color: black;
+    opacity: 0.6;
+    margin-top: 70%;
+    width: 100%;
+    transition: .3s; 
+}
+/* Make it responsive */
+ 
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+     
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .gallery{
+        grid-template-columns: repeat(1, 1fr);
+         
+    }  
+ 
+}
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+
+    .gallery{
+        grid-template-columns: repeat(1, 1fr);
+         
+    }  
+   
+
+}

@@ -1,0 +1,46 @@
+[
+    {
+    
+      "name": "SUNDARBAN",
+      "description": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.",
+      "offer": "3days/7000TK.",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/10/ed/28/37/mermaid-beach-resort.jpg"
+    },
+    {
+     
+      "name": "SAINT MARTIN",
+      "description": "St. Martin's Island is a small island in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula.",
+      "offer": "6days/9000TK.",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/c7/dd/29/rock-gardens-holiday.jpg"
+    },
+    {
+    
+      "name": "KUAKATA",
+      "description": "Kuakata is a town in southern Bangladesh known for its panoramic sea beach. Kuakata beach is a sandy expanse 18 kilometres long and 3 kilometres wide.",
+      "offer": "5days/1000TK.",
+      "img": "https://images.unsplash.com/photo-1601410928419-3c56069edfb0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmVzb3J0JTIwaW4lMjBiYW5nbGFkZXNofGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+     
+      "name": "SHYLET",
+      "description": "Sylhet is a city in eastern Bangladesh, on the Surma River. It’s known for its Sufi shrines, like the ornate tomb and mosque of 14th-century saint Hazrat Shah Jalal.",
+      "offer": "4days/8000TK.",
+      "img": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzb3J0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+     
+      "name": "ZAFLOANG",
+      "description": "Zaflong is a city in eastern Bangladesh, on the Surma River. It’s known for its Sufi shrines, like the ornate tomb and mosque of 14th-century saint Hazrat Shah Jalal",
+      "offer": "4days/8000TK.",
+      "img": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzb3J0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+ 
+    {
+    
+      "name": "SAJEK VALLEY",
+      "description": "Sajek Valley is one of the popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila.",
+      "offer": "3day / 7000TK.",
+      "img": "https://images.unsplash.com/photo-1586611292717-f828b167408c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmVzb3J0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    }
+
+  ]

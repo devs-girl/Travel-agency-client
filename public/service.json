@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name": "SUNDARBAN",
+      "description": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.",
+      "img": "http://www.sundarbantours.com/wp-content/uploads/2013/03/Royal-Bengal-Tiger.jpg"
+    },
+    {
+      "id": 2,
+      "name": "SAINT MARTIN",
+      "description": "St. Martin's Island is a small island in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqxypYdylHXYy84S_jzajhA54uRyYANH_cdg&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "KUAKATA",
+      "description": "Kuakata is a town in southern Bangladesh known for its panoramic sea beach. Kuakata beach is a sandy expanse 18 kilometres long and 3 kilometres wide.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTyWfNlFd2r9yZC1AbbCRDU3-LoizfGDbjg&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "SHYLET",
+      "description": "Sylhet is a city in eastern Bangladesh, on the Surma River. It’s known for its Sufi shrines, like the ornate tomb and mosque of 14th-century saint Hazrat Shah Jalal, now a major pilgrimage site near Dargah Gate.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzeUQ3wx1yFjkxcpLTL_iMQ1_fta86DTfTpg&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "SAJEK VALLEY",
+      "description": "Sajek Valley is one of the popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.",
+      "img": "http://jaxindex.com/wp-content/uploads/listing-uploads/gallery/2019/08/sajek-valley-image12-jaxindex.jpg"
+    },
+    {
+      "id": 6,
+      "name": "ZAFLOANG",
+      "description": "Jaflong is a hill station and tourist destination in the Division of Sylhet, Bangladesh. It is located in Gowainghat Upazila of Sylhet District .",
+      "img": "https://pathfriend-bd.com/wp-content/uploads/2019/08/Zaflong-Zero-Point.jpg"
+    }
+   
+   
+  ]
